@@ -1,32 +1,23 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # TSWD-portfolio-templates
-These portfolio templates are for setting up your Telling Stories with Data site.  Edit these pages and add new ones as needed.   
-It's always helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
-
-- Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
-- This repository: https://github.com/cmustudent/tswd-portfolio-templates/
-
-# Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
-
-# What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
-
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
+My name is Katie and I'm a part-time student, full-time project manager, and full-time (and then some) mom of two! Working at Carnegie Mellon is my second career. In my past professional life, I was an elementary school teacher (which makes sense the more you get to know me) and a stay-at-home mom. The Public Management Program is my second Masters, with my first in elementary education. I've loved the diversity of courses and the fact that I'm able to create an experience that will help me grow in my own unique trajectory. I'm excited for Telling Stories with Data because it will help me stand my ground in future conversations and not just rely on the thoughts and expertise of others. 
 
 # Portfolio
+This is my public portfolio for Telling Stories with Data at CMU! I'd love feedback, but please be kind. I'm learning. 
+
+### Visualizing Government Debt
+### Assignment 3&4: Critique by Design
+### Final Project 1
+### Final Project 2
+### Final Project 3
+
+# What I hope to learn 
+- **How to take critique.** Seriously. I'm a semi-recovering type-A. I want to separate the critique from the person.
+- **How to know when to move forward.** I don't want to continue to second guess and overdue things. I want to walk away knowing how to make strong visuals, not flashy visuals.
+- **How to make a strong opinion (and stand by it).** I want to walk away knowing that my professional opinions, whether in creating visualizations or viewing them, matter and are backed in practice.
 
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
@@ -44,6 +35,8 @@ Here it might be helpful to include a high-level description of your final proje
 Part III(final-project-part-three)
 
 ---
+## Ignore me. This is a reference page so I remember tips and tricks
+
 ## Other stuff you can do (you can remove this section - it's just for your reference.)
 
 ### Changing text
