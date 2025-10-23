@@ -10,9 +10,7 @@ This is my public portfolio for Telling Stories with Data at CMU! I'd love feedb
 
 ### Visualizing Government Debt
 ### Assignment 3&4: Critique by Design
-### Final Project 1
-### Final Project 2
-### Final Project 3
+### Final Project
 
 # What I hope to learn 
 - **How to take critique.** Seriously. I'm a semi-recovering type-A. I want to separate the critique from the person.
