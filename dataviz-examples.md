@@ -3,4 +3,5 @@
 # Data visualization examples
 Here are some examples of in-class exercises.
 
+![Popular Datawrapper Visualizations](xDr73-popular-datawrapper-viz-types.jpeg)
 
