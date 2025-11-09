@@ -26,7 +26,11 @@ I made two quick vizs in Tableau Public. But before drafting, I filtered the dat
 
 In the first viz, I focused on the top ten dog breeds reported as biters in 2021. A quick histogram was able to do the trick.
 
+![Dog bites by breed](Dog bites by breeds.jpeg)
+
 In the original, it felt like they were also trying to focus on location of incidents. Here a red treemap communicated this information. I used the red scale because it communicated urgency. I excluded "other" from the viz as it represented bites outside of the five NYC boroughs.
+
+![Dog bites by borough](Dog bites by borough.jpeg)
 
 ## Step four: Test the solution
 
