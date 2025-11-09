@@ -5,3 +5,4 @@ Here are some examples of in-class exercises.
 
 ![Popular Datawrapper Visualizations](xDr73-popular-datawrapper-viz-types.jpeg)
 
+*I know this one needs some work. The original version continues to 2023.*
