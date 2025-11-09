@@ -21,10 +21,10 @@ This is my public portfolio for Telling Stories with Data at CMU! I'd love feedb
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
 
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt.md)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
+This assignment utilized a dataset from the Organization for Economic Co-operation and Development (OECD) to understand Debt to GDP ratios. I used Tableau Public to create a heatmap of the debt-to-GDP ratios, as well as a revisualization box and whisker plot. In addition to a new visualization style, the second was filtered to focus on post-pandemic economics.
 
 ## Assignment 3&4: [Critique by Design](critique-by-design.md)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
+Critique by Design is a complex assignment, spanning multiple class sessions, focusing on giving and receiving feedback, and taking action to support the audience's need. More information can be found in the Critique by Design page.  
 
 ## Final project
 Here it might be helpful to include a high-level description of your final project. 
