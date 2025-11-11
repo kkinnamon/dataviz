@@ -9,7 +9,7 @@ For this critique, I'm utilizing the viz "Dog Bites vs Dog Distribution in NYC".
 
 This viz was made accessible through MakeoverMonday.co.uk, and the original source is https://studentwork.prattsi.org/infovis/visualization/dog-breeds-data-visualization/, accessed November 7, 2025.
 
-## Step two: the critique
+## Step two: The critique
 For ease, I'm breaking down the components of Stephen Few's Data Visualization Effectiveness Profile:
 - Usefulness: I was able to think of a few audiences for this visualization. If you were in real estate, looking to buy a house, or even in public health, this visualization would be helpful to you. It communicates need for animal safety, as well as areas that are less populated if dogs aren't your thing.
 - Completeness: I felt like it was lacking in this area. The legend only spoke to the green areas, but didn't fully articulate the shading. The dog distribution would have been better articulated with steps instead of a gradient scale. The legend also failed to acknowledge the heatmap. While the subheading referenced it, it's location overlayed on the map made the notation easy to overlook.
@@ -35,41 +35,15 @@ In the original, it felt like they were also trying to focus on location of inci
 ## Step four: Test the solution
 My group included two BIDA students and one Healthcare Analytics student. All of the feedback came from international students, which provided feedback that I might not have otherwise received.
 
-Common threads focused on:
+Common themes focused on:
 - Labels: What years are represented? How can you rotate labels to make text more clear to the audience?
 - Definitions: What does "borough" mean and why do you keep going back to that word? Does "unknown" matter, if so, what does it mean?
 - Display: Are there places to add colors? Why did you choose that color scale for the heatmap? Is red the most intense? Could you add text to the heat map squares to highlight breeds of importance? Should this information live on a map instead?
 
-Sitting down with my group was so helpful. It reminded me that I needed up update my visualizations rather than lean into the narratives for explanations. 
-
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
-
-Questions to ask (modify these for your own interviews): 
-
-- Can you tell me what you think this is?
-
-- Can you describe to me what this is telling you?
-
-- Is there anything you find surprising or confusing?
-
-- Who do you think is the intended audience for this?
-
-- Is there anything you would change or do differently?
-
-Results: 
-
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
-
-
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
-
-Synthesis: 
-
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+Sitting down with my group was so helpful. It reminded me that I needed up update my visualizations rather than lean into the narratives for explanations. Based on this feedback, I'm going to focus my solution on:
+- adding clarity to my labels
+- enhancing the treemap
+- possibly creating a dashboard that allows me to continue to utilize a map without overcrowding a map with too many datasources.
 
 ## Step five: build the solution
 
