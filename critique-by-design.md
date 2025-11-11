@@ -33,6 +33,14 @@ In the original, it felt like they were also trying to focus on location of inci
 ![Dog bites by borough](Dog bites by borough.jpeg)
 
 ## Step four: Test the solution
+My group included two BIDA students and one Healthcare Analytics student. All of the feedback came from international students, which provided feedback that I might not have otherwise received.
+
+Common threads focused on:
+- Labels: What years are represented? How can you rotate labels to make text more clear to the audience?
+- Definitions: What does "borough" mean and why do you keep going back to that word? Does "unknown" matter, if so, what does it mean?
+- Display: Are there places to add colors? Why did you choose that color scale for the heatmap? Is red the most intense? Could you add text to the heat map squares to highlight breeds of importance? Should this information live on a map instead?
+
+Sitting down with my group was so helpful. It reminded me that I needed up update my visualizations rather than lean into the narratives for explanations. 
 
 _Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
 
