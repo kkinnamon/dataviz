@@ -1,42 +1,71 @@
 | [home page](README.md) | [data viz examples](dataviz-examples.md) |[visualizing government debt](visualizing-government-debt.md) | [critique by design](critique-by-design.md) | [final project I](final-project-part-one.md) | [final project II](final-project-part-two.md) | [final project III](final-project-part-three.md) |
 
 
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
-
 # Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
+
+Aspiring teachers, like many college graduates, face big questions about their future: What content area inspires me? Is there an age group that’s a good fit? Where do I want to live and work? What type of impact do I want to make? 
+
+The profession is experiencing rapid change, and where a teacher chooses to work can shape their day-to-day work and long term trajectory in the field. As new educators sign contracts and move into their first classrooms, how much do they really know about what lies ahead, including job availability, salary trends, and the likelihood that they’ll continue to teacher in their certified area or stay in the field?
+
+This story is designed to look into K-12 public school teacher employment, their salaries, and other variables teachers need to know to think beyond their first year and into a sustainable career.
+
+As a former classroom teacher, I created this story to help aspiring teachers make the first step in their career as they begin, or narrow down, their job search with confidence and understanding.
+
  
-Text here...
+# Project Structure
 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
 
-Text here...
 
-## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
+Introduction:
+Insert sketch of color coded map
+The story will kick off with the number of employed teachers by state, which is exciting to see, giving the feeling of options. This is important for new teachers seeking community or options. A state with a large number of teachers tells us that there are more schools. More schools means they can find an administrative or curricular fit, as well as a school that is in close proximity to home if a short commute is priority.
 
-Text here...
+Insert Stayers, Movers, or Leavers
+Despite the number of teachers that exist, things happen and people choose to stay in the field, move to new schools, or leave the profession all together. But why? Beyond personal factors such as staying at home or relocating, why are teachers moving or leaving?
+
+Problems:
+Insert sketch of underqualified
+The challenges teachers face continue as while a teacher may be employed, they may be underqualified. In these situations, teachers are placed, often to no decision of their own, in a classroom that they are not certified to teach or, pending state, they may hold an emergency license. Emergency licenses are most common in states that are in crisis for particular subsets, which unfortunately, is often to the detriment of the most vulnerable learners such as pre-kindergarten or special education students. This will make aspiring teachers pause as they consider the importance of permanency and preparedness.
+
+Insert sketch of salary histogram
+The next portion of the story starts to paint a bleak picture, and that’s when salary moves into the equation. Here the story will highlight the variability of salary across states, and hopefully include median household income as a comparison. This will help the audience understand that a high salary is not always adequate for the cost of living.
+
+Resolution:
+Insert sketch of shortage data
+This is going to be the call to action. The system is broken and students are suffering. Charged with the proper information, aspiring educators can make informed decisions on where to launch their careers and better understand their trajectory as well as the impact it will have on the state.
 
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
-Text here...
+A variety of data sources were used to launch this project. Finding the appropriate sources was a bit of trial and error as I finetuned the story. Data included state level workforce information focused on teachers. Federal data will be layered into the state data (when appropriate) to provide a comparison for issues such as cost of living and how far a teacher salary can go. Census data will be referenced throughout the story, but will be pulled directly through Tableau dashboard rather than a public dataset.
 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
+It is important to note that there were state exclusions in many sets. Pending the data set, they tend to fall into one of two reasons. The first reason for exclusion is that the state did not provide data. Some of the information was acquired on a voluntary basis and the state, for whatever reason, chose not to report the data. Another reason for exclusion is that the sample set was too small for accurate reporting. 
+
+An overview of the sources and their purpose is outlined in the table below:
 
 | Name | URL | Description |
 |------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+|   Cost of living by state in USA   |  COL.xlsx   |      The COL by state will layer into salary to help the audience understand whether or not average teacher salary is proportionate to the regions cost of living.   |
+| Teacher Shortage Data | TeacherShortage_Downloadable.xlsx | Teacher shortage data provides an overview of the intricacies of teacher shortage, including vacancies and underqualifications, and relates the shortages to student population. |
+|   Teacher Status by State   | Teacher Status by state.xlsx   |    This dataset provides percentages by state of teachers who stay, move schools, or leave the profession. Originally a part of a larger pdf, one table was convert into excel for the purpose of this dataset. |
+| Teacher Status by Year | Teacher Status by Year.xlsx | This dataset focuses on the national trend of teachers who stay, move, or leave. Like the by state dataset, it was once part of a larger pdf, trimmed for the purpose of this story.
+|  Ed Degrees Conferred  |  Ed degrees conferred.xlsx |   This dataset provides a longitudinal overview of the number of bachelor degrees conferred across 33 fields of study.          |
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
-
-Text here...
+Phase 1 sketches were rough, using marker and dot grid notepaper. I’m hoping to bring my ideas to life in phases 2 and 3 using tableau and datawrapper. 
 
 ## References
-_List any references you used here._
+Cost of living by state in USA: https://www.kaggle.com/datasets/lukkardata/cost-of-living-missouri-economic-research?resource=download, accessed November 16
+
+Digest of Education Statistics, National Center for Education statistics, accessed November 14
+
+“Teachers’ status by state: Teacher Attrition and Mobility Results from the 2021-2022 Teacher Follow-up Survey to the National Teacher and Principal Survey”, nces.ed.gov, accessed November 16
+
+“State teacher shortages”, Learning Policy Institute,  https://learningpolicyinstitute.org/product/state-teacher-shortages-vacancy-resource-tool-2024, accessed November 14
+
+Teacher Shortage Areas by State dataset: https://tsa.ed.gov/#/reports, accessed November 16
+
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+Copilot was utilized during phase 1 of this assignment to support the search of datasets. Copilot helped me refine my language to get the appropriate results. For example, I was interested in career trajectories, and Copilot helped me understand that the language I was using was not inclusive of all states and encouraged me to refine my question to include “stayers, movers, and leavers” (National Center for Educational Statistics) for concise information.
+
