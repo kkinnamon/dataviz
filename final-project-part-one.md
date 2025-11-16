@@ -35,7 +35,6 @@ Insert sketch of shortage data
 This is going to be the call to action. The system is broken and students are suffering. Charged with the proper information, aspiring educators can make informed decisions on where to launch their careers and better understand their trajectory as well as the impact it will have on the state.
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
 A variety of data sources were used to launch this project. Finding the appropriate sources was a bit of trial and error as I finetuned the story. Data included state level workforce information focused on teachers. Federal data will be layered into the state data (when appropriate) to provide a comparison for issues such as cost of living and how far a teacher salary can go. Census data will be referenced throughout the story, but will be pulled directly through Tableau dashboard rather than a public dataset.
 
@@ -46,10 +45,10 @@ An overview of the sources and their purpose is outlined in the table below:
 | Name | URL | Description |
 |------|-----|-------------|
 |   Cost of living by state in USA   |   (https://tinyurl.com/yc6rz8zc)  |      The COL by state will layer into salary to help the audience understand whether or not average teacher salary is proportionate to the regions cost of living.   |
-| Teacher Shortage Data | TeacherShortage_Downloadable.xlsx | Teacher shortage data provides an overview of the intricacies of teacher shortage, including vacancies and underqualifications, and relates the shortages to student population. |
-|   Teacher Status by State   | Teacher Status by state.xlsx   |    This dataset provides percentages by state of teachers who stay, move schools, or leave the profession. Originally a part of a larger pdf, one table was convert into excel for the purpose of this dataset. |
-| Teacher Status by Year | Teacher Status by Year.xlsx | This dataset focuses on the national trend of teachers who stay, move, or leave. Like the by state dataset, it was once part of a larger pdf, trimmed for the purpose of this story.
-|  Ed Degrees Conferred  |  Ed degrees conferred.xlsx |   This dataset provides a longitudinal overview of the number of bachelor degrees conferred across 33 fields of study.          |
+| Teacher Shortage Data | (https://tinyurl.com/mspkm6um) | Teacher shortage data provides an overview of the intricacies of teacher shortage, including vacancies and underqualifications, and relates the shortages to student population. |
+|   Teacher Status by State   | (https://tinyurl.com/38mh3tnn)  |    This dataset provides percentages by state of teachers who stay, move schools, or leave the profession. Originally a part of a larger pdf, one table was converted into excel for the purpose of this dataset. |
+| Teacher Status by Year | (https://tinyurl.com/4bj2zb73) | This dataset focuses on the national trend of teachers who stay, move, or leave. Like the by state dataset, it was once part of a larger pdf, trimmed for the purpose of this story.
+|  Ed Degrees Conferred  |  (https://tinyurl.com/mus7r38v) |   This dataset provides a longitudinal overview of the number of bachelor degrees conferred across 33 fields of study.          |
 
 # Method and medium
 Phase 1 sketches were rough, using marker and dot grid notepaper. I’m hoping to bring my ideas to life in phases 2 and 3 using tableau and datawrapper. 
