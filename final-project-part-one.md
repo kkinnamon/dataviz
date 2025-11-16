@@ -24,17 +24,16 @@ Despite the number of teachers that exist, things happen and people choose to st
 
 <img src="IMG_8916.jpg" width="500"/>
 
-The challenges teachers face continue as while a teacher may be employed, they may be underqualified. In these situations, teachers are placed, often to no decision of their own, in a classroom that they are not certified to teach or, pending state, they may hold an emergency license. Emergency licenses are most common in states that are in crisis for particular subsets, which unfortunately, is often to the detriment of the most vulnerable learners such as pre-kindergarten or special education students. This will make aspiring teachers pause as they consider the importance of permanency and preparedness.
+The challenges teachers face continue as while a teacher may be employed, they may be underqualified. In these situations, teachers are placed, often to no decision of their own, in a classroom that they are not certified to teach or, pending state, they may hold an emergency license. Emergency licenses are most common in states that are in crisis for particular subsets, which unfortunately, is often to the detriment of the most vulnerable learners such as pre-kindergarten or special education students. This will make aspiring teachers pause as they consider the importance of permanency and preparedness. At the time of submission, I'm insure if this will include all 50 states or include a map and filter to highlight particular states.
 
 <img src="IMG_8917.jpg" width="500"/>
 
-The next portion of the story starts to paint a bleak picture, and that’s when salary moves into the equation. Here the story will highlight the variability of salary across states, and hopefully include median household income as a comparison. This will help the audience understand that a high salary is not always adequate for the cost of living.
+The next portion of the story starts to paint a bleak picture, and that’s when salary moves into the equation. Here the story will highlight the variability of salary across states, and hopefully include median household income as a comparison. This will help the audience understand that a high salary is not always adequate for the cost of living. Changes in this visualization will include cost of living data, either as a lollipop addition to the histogram or turning the histogram data into a map with census overlay.
 
 <img src="IMG_8918.jpg" width="500"/>
 
 Resolution:
-Insert sketch of shortage data
-This is going to be the call to action. The system is broken and students are suffering. Charged with the proper information, aspiring educators can make informed decisions on where to launch their careers and better understand their trajectory as well as the impact it will have on the state.
+The system is broken and students are suffering. Charged with the proper information, aspiring educators can make informed decisions on where to launch their careers and better understand their trajectory as well as the impact it will have on the state.
 
 # The data
 
@@ -51,6 +50,7 @@ An overview of the sources and their purpose is outlined in the table below:
 |   Teacher Status by characteristics  | [https://tinyurl.com/4cxdx3nz](https://tinyurl.com/4cxdx3nz)))  |    This dataset provides percentages by state of teachers who stay, move schools, or leave the profession. Originally a part of a larger pdf, one table was converted into excel for the purpose of this dataset. |
 | Teacher Status by Year | [https://tinyurl.com/4bj2zb73](https://tinyurl.com/4bj2zb73)) | This dataset focuses on the national trend of teachers who stay, move, or leave. Like the by state dataset, it was once part of a larger pdf, trimmed for the purpose of this story.
 |  Ed Degrees Conferred  |  [https://tinyurl.com/mus7r38v](https://tinyurl.com/mus7r38v) |   This dataset provides a longitudinal overview of the number of bachelor degrees conferred across 33 fields of study.          |
+| Teacher Shortage by Credentials | [https://tinyurl.com/5avwdvr2](https://tinyurl.com/5avwdvr2) | The National Conference of State Legislatures provides a detailed overview of teacher shortages by credentialed subjects. The data was filtered to only include the 2022-2023 academic year shortages, which aligns with other data in the story.
 
 # Method and medium
 Phase 1 sketches were rough, using marker and dot grid notepaper. I’m hoping to bring my ideas to life in phases 2 and 3 using tableau and datawrapper. 
