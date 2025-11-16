@@ -17,11 +17,14 @@ As a former classroom teacher, I created this story to help aspiring teachers ma
 <img src="IMG_8914.jpg" width="500"/>
 
 Introduction:
-Insert sketch of color coded map
-The story will kick off with the number of employed teachers by state, which is exciting to see, giving the feeling of options. This is important for new teachers seeking community or options. A state with a large number of teachers tells us that there are more schools. More schools means they can find an administrative or curricular fit, as well as a school that is in close proximity to home if a short commute is priority.
 
-Insert Stayers, Movers, or Leavers
-Despite the number of teachers that exist, things happen and people choose to stay in the field, move to new schools, or leave the profession all together. But why? Beyond personal factors such as staying at home or relocating, why are teachers moving or leaving?
+The story will kick off with the number of employed teachers by state, which is exciting to see, giving the feeling of options. This is important for new teachers seeking community or options. A state with a large number of teachers tells us that there are more schools. More schools means they can find an administrative or curricular fit, as well as a school that is in close proximity to home if a short commute is priority. As of now, I intend to use a gradient scale map that is far more to scale and precise than the current map.
+
+<img src="IMG_8915.jpg" width="500"/>
+
+Despite the number of teachers that exist, things happen and people choose to stay in the field, move to new schools, or leave the profession all together. But why? Beyond personal factors such as staying at home or relocating, why are teachers moving or leaving? At this point, I am unsure if I want to make this a longitudnal overview or focus on the data from 2021-2022 in a pie graph. I'm leaning towards the pie graph because of how slight the shifts are in the line graph, but will see if adapting the scale has an impact.
+
+<img src="IMG_8916.jpg" width="500"/>
 
 Problems:
 Insert sketch of underqualified
