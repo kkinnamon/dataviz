@@ -16,8 +16,6 @@ As a former classroom teacher, I created this story to help aspiring teachers ma
 
 <img src="IMG_8914.jpg" width="500"/>
 
-Introduction:
-
 The story will kick off with the number of employed teachers by state, which is exciting to see, giving the feeling of options. This is important for new teachers seeking community or options. A state with a large number of teachers tells us that there are more schools. More schools means they can find an administrative or curricular fit, as well as a school that is in close proximity to home if a short commute is priority. As of now, I intend to use a gradient scale map that is far more to scale and precise than the current map.
 
 <img src="image (2).jpg" width="500"/>
@@ -26,8 +24,6 @@ Despite the number of teachers that exist, things happen and people choose to st
 
 <img src="IMG_8916.jpg" width="500"/>
 
-Problems:
-Insert sketch of underqualified
 The challenges teachers face continue as while a teacher may be employed, they may be underqualified. In these situations, teachers are placed, often to no decision of their own, in a classroom that they are not certified to teach or, pending state, they may hold an emergency license. Emergency licenses are most common in states that are in crisis for particular subsets, which unfortunately, is often to the detriment of the most vulnerable learners such as pre-kindergarten or special education students. This will make aspiring teachers pause as they consider the importance of permanency and preparedness.
 
 Insert sketch of salary histogram
