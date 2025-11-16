@@ -15,6 +15,7 @@ As a former classroom teacher, I created this story to help aspiring teachers ma
 # Project Structure
 
 ![Story Arch](IMG_8914.jpg)
+<img src="IMG_8914.jpg" width="200"/>
 
 Introduction:
 Insert sketch of color coded map
