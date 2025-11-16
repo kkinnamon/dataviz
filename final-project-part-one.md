@@ -45,7 +45,7 @@ An overview of the sources and their purpose is outlined in the table below:
 
 | Name | URL | Description |
 |------|-----|-------------|
-|   Cost of living by state in USA   |  (COL.xlsx)   |      The COL by state will layer into salary to help the audience understand whether or not average teacher salary is proportionate to the regions cost of living.   |
+|   Cost of living by state in USA   |   (https://tinyurl.com/yc6rz8zc)  |      The COL by state will layer into salary to help the audience understand whether or not average teacher salary is proportionate to the regions cost of living.   |
 | Teacher Shortage Data | TeacherShortage_Downloadable.xlsx | Teacher shortage data provides an overview of the intricacies of teacher shortage, including vacancies and underqualifications, and relates the shortages to student population. |
 |   Teacher Status by State   | Teacher Status by state.xlsx   |    This dataset provides percentages by state of teachers who stay, move schools, or leave the profession. Originally a part of a larger pdf, one table was convert into excel for the purpose of this dataset. |
 | Teacher Status by Year | Teacher Status by Year.xlsx | This dataset focuses on the national trend of teachers who stay, move, or leave. Like the by state dataset, it was once part of a larger pdf, trimmed for the purpose of this story.
