@@ -26,8 +26,11 @@ Despite the number of teachers that exist, things happen and people choose to st
 
 The challenges teachers face continue as while a teacher may be employed, they may be underqualified. In these situations, teachers are placed, often to no decision of their own, in a classroom that they are not certified to teach or, pending state, they may hold an emergency license. Emergency licenses are most common in states that are in crisis for particular subsets, which unfortunately, is often to the detriment of the most vulnerable learners such as pre-kindergarten or special education students. This will make aspiring teachers pause as they consider the importance of permanency and preparedness.
 
-Insert sketch of salary histogram
+<img src="IMG_8917.jpg" width="500"/>
+
 The next portion of the story starts to paint a bleak picture, and that’s when salary moves into the equation. Here the story will highlight the variability of salary across states, and hopefully include median household income as a comparison. This will help the audience understand that a high salary is not always adequate for the cost of living.
+
+<img src="IMG_8918.jpg" width="500"/>
 
 Resolution:
 Insert sketch of shortage data
