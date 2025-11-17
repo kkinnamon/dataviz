@@ -9,12 +9,11 @@ The profession is experiencing rapid change, and where a teacher chooses to work
 
 This story is designed to look into K-12 public school teacher employment, their salaries, and other variables teachers need to know to think beyond their first year and into a sustainable career.
 
-As a former classroom teacher, I created this story to help aspiring teachers make the first step in their career as they begin, or narrow down, their job search with confidence and understanding.
-
- 
-# Project Structure
+As a former classroom teacher, I created this story to help aspiring teachers make the first step in their career as they begin, or narrow down, their job search with confidence and understanding. Below is my vision for the story. Join me as I walk through the accompanying visualizations and story.
 
 <img src="IMG_8914.jpg" width="500"/>
+ 
+# Project Structure
 
 The story will kick off with the number of employed teachers by state, which is exciting to see, giving the feeling of options. This is important for new teachers seeking community or options. A state with a large number of teachers tells us that there are more schools. More schools means they can find an administrative or curricular fit, as well as a school that is in close proximity to home if a short commute is priority. As of now, I intend to use a gradient scale map that is far more to scale and precise than the current map.
 
@@ -53,7 +52,7 @@ An overview of the sources and their purpose is outlined in the table below:
 | Teacher Shortage by Credentials | [https://tinyurl.com/5avwdvr2](https://tinyurl.com/5avwdvr2) | The National Conference of State Legislatures provides a detailed overview of teacher shortages by credentialed subjects. The data was filtered to only include the 2022-2023 academic year shortages, which aligns with other data in the story.
 
 # Method and medium
-Phase 1 sketches were rough, using marker and dot grid notepaper. I’m hoping to bring my ideas to life in phases 2 and 3 using tableau and datawrapper. 
+Phase 1 sketches were rough, using marker and dot grid notepaper. I’m hoping to bring my ideas to life in phases 2 and 3 using tableau and datawrapper. The final project will be my first attempt at using shorthand. Stay tuned!
 
 ## References
 Learning Policy Institute. _State Teacher Shortages: Vacancy and Resource Tool._ 2024. Accessed 14 Nov. 2025. https://learningpolicyinstitute.org/product/state-teacher-shortages-vacancy-resource-tool-2024, 
