@@ -31,7 +31,6 @@ The next portion of the story starts to paint a bleak picture, and that’s when
 
 <img src="IMG_8918.jpg" width="500"/>
 
-Resolution:
 The system is broken and students are suffering. Charged with the proper information, aspiring educators can make informed decisions on where to launch their careers and better understand their trajectory as well as the impact it will have on the state.
 
 # The data
