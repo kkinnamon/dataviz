@@ -45,10 +45,10 @@ An overview of the sources and their purpose is outlined in the table below:
 
 | Name | URL | Description |
 |------|-----|-------------|
-|   Cost of living by state in USA   |   [https://tinyurl.com/yc6rz8zc](https://tinyurl.com/yc6rz8zc))  |      The COL by state will layer into salary to help the audience understand whether or not average teacher salary is proportionate to the regions cost of living.   |
-| Teacher Shortage Data | [https://tinyurl.com/mspkm6um](https://tinyurl.com/mspkm6um)) | Teacher shortage data provides an overview of the intricacies of teacher shortage, including vacancies and underqualifications, and relates the shortages to student population. |
-|   Teacher Status by characteristics  | [https://tinyurl.com/4cxdx3nz](https://tinyurl.com/4cxdx3nz)))  |    This dataset provides percentages by state of teachers who stay, move schools, or leave the profession. Originally a part of a larger pdf, one table was converted into excel for the purpose of this dataset. |
-| Teacher Status by Year | [https://tinyurl.com/4bj2zb73](https://tinyurl.com/4bj2zb73)) | This dataset focuses on the national trend of teachers who stay, move, or leave. Like the by state dataset, it was once part of a larger pdf, trimmed for the purpose of this story.
+|   Cost of living by state in USA   |   [https://tinyurl.com/yc6rz8zc](https://tinyurl.com/yc6rz8zc)  |      The COL by state will layer into salary to help the audience understand whether or not average teacher salary is proportionate to the regions cost of living.   |
+| Teacher Shortage Data | [https://tinyurl.com/mspkm6um](https://tinyurl.com/mspkm6um) | Teacher shortage data provides an overview of the intricacies of teacher shortage, including vacancies and underqualifications, and relates the shortages to student population. |
+|   Teacher Status by characteristics  | [https://tinyurl.com/4cxdx3nz](https://tinyurl.com/4cxdx3nz)  |    This dataset provides percentages by state of teachers who stay, move schools, or leave the profession. Originally a part of a larger pdf, one table was converted into excel for the purpose of this dataset. |
+| Teacher Status by Year | [https://tinyurl.com/4bj2zb73](https://tinyurl.com/4bj2zb73) | This dataset focuses on the national trend of teachers who stay, move, or leave. Like the by state dataset, it was once part of a larger pdf, trimmed for the purpose of this story.
 |  Ed Degrees Conferred  |  [https://tinyurl.com/mus7r38v](https://tinyurl.com/mus7r38v) |   This dataset provides a longitudinal overview of the number of bachelor degrees conferred across 33 fields of study.          |
 | Teacher Shortage by Credentials | [https://tinyurl.com/5avwdvr2](https://tinyurl.com/5avwdvr2) | The National Conference of State Legislatures provides a detailed overview of teacher shortages by credentialed subjects. The data was filtered to only include the 2022-2023 academic year shortages, which aligns with other data in the story.
 
@@ -56,15 +56,11 @@ An overview of the sources and their purpose is outlined in the table below:
 Phase 1 sketches were rough, using marker and dot grid notepaper. I’m hoping to bring my ideas to life in phases 2 and 3 using tableau and datawrapper. 
 
 ## References
-Cost of living by state in USA: https://www.kaggle.com/datasets/lukkardata/cost-of-living-missouri-economic-research?resource=download, accessed November 16
-
-Digest of Education Statistics, National Center for Education statistics, accessed November 14
-
-“Teachers’ status by state: Teacher Attrition and Mobility Results from the 2021-2022 Teacher Follow-up Survey to the National Teacher and Principal Survey”, nces.ed.gov, accessed November 16
-
-“State teacher shortages”, Learning Policy Institute,  https://learningpolicyinstitute.org/product/state-teacher-shortages-vacancy-resource-tool-2024, accessed November 14
-
-Teacher Shortage Areas by State dataset: https://tsa.ed.gov/#/reports, accessed November 16
+Learning Policy Institute. _State Teacher Shortages: Vacancy and Resource Tool._ 2024. Accessed 14 Nov. 2025. https://learningpolicyinstitute.org/product/state-teacher-shortages-vacancy-resource-tool-2024, 
+Lukkardata. _Cost of living by state in USA - Missouri Economic Research_. accessed 16 Nov. 2025. https://www.kaggle.com/datasets/lukkardata/cost-of-living-missouri-economic-research
+National Center for Education Statistics. _Digest of Education Statistics._ U.S. Department of Education. accessed 14 Nov. 2025. https://nces.ed.gov/programs/digest
+National Center for Education Statistics. _Teacher Attrition and Mobility Results from the 2021-2022 Teacher Follow-up Survey to the National Teacher and Principal Survey_. U.S. Department of Education, 2024. Accessed 16 Nov. 2025. https://nces.ed.gov
+U.S. Department of Education. _Teacher Shortage Areas (TSA) Reports._ Accessed 16 Nov. 2025. https://tsa.ed.gov/#/reports
 
 
 ## AI acknowledgements
