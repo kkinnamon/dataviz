@@ -1,6 +1,6 @@
 | [home page](README.md) | [data viz examples](dataviz-examples.md) |[visualizing government debt](visualizing-government-debt.md) | [critique by design](critique-by-design.md) | [final project I](final-project-part-one.md) | [final project II](final-project-part-two.md) | [final project III](final-project-part-three.md) |
 
-# TSWD-portfolio-templates
+# Telling Stories with Data- Fall 2025
 
 # About me
 My name is Katie and I'm a part-time student, full-time project manager, and full-time (and then some) mom of two! Working at Carnegie Mellon is my second career. In my past professional life, I was an elementary school teacher (which makes sense the more you get to know me) and a stay-at-home mom. The Public Management Program is my second Masters, with my first in elementary education. I've loved the diversity of courses and the fact that I'm able to create an experience that will help me grow in my own unique trajectory. I'm excited for Telling Stories with Data because it will help me stand my ground in future conversations and not just rely on the thoughts and expertise of others. 
