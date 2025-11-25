@@ -28,38 +28,23 @@ The remaining goals of clarity and access focus on elements within the visualiza
 
 Text here!
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
+| Questions               | Interview 1- Full-time Heinz Student Group | Interview 2- Coworker with education background | Interview 3- Family member who works in a profession that works with school aged students |
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+| How can I elements more visually appealing? | Have you tried changing the axis on any visualizations you're struggling with? It might make it more accessible/user friendly.            | There's a lot to the map that means nothing. Can you zoom in? | The story is an afterthought. Am I supposed to read that too? Maybe highlight or bold important text. |
+|  Are there definitions that need clarified? | I'm confused about what teacher means. Does that mean professor? Can you explain underqualified? It sounds important, but I need that information to understand the visualization.  |  All of the info makes sense! |   Why does underqualified matter? |
+|  Any visualization updates that come to mind? |  Visualizations make sense for the data you're sharing.  Great use of variety. Do you always need to include all of the states? |   |  Just the map question from before. | The text is small. Is there a way to make it bigger? |
 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
-
-Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+| Update visualizations that over communicate | This mostly impacts the underqualified and average salary visualizations. I'll look for opportunities to show ranges versuses the whole dataset, and link out to my github page for those who want more information. |
+|  Definitions, definitions, definitions |  This may be specific to my narrative, but may impact titles, subtitles, and labels. I'm going to review the story to find any opportunity to clarify. |
+|  Eliminate gray space |  As is, the map has too much gray space. I'll update the map to focus on the lower 48.             |
 
-> ...include any final thoughts you have here. 
-
-Text here!
-
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
 
 ## References
-_List any references you used here._
+No new references were added into part two. All references used in the project are identified in part one.
 
-## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
 
