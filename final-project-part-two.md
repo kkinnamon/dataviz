@@ -1,7 +1,7 @@
 | [home page](README.md) | [data viz examples](dataviz-examples.md) |[visualizing government debt](visualizing-government-debt.md) | [critique by design](critique-by-design.md) | [final project I](final-project-part-one.md) | [final project II](final-project-part-two.md) | [final project III](final-project-part-three.md) |
 
 # Wireframes / storyboards
-Part two of the final project was drafted directly in storyboard: https://preview.shorthand.com/gLeeYnGYP6WgZslF. Feedback that I'm seeking or items that I'm still troubleshooting are italicized in the text.
+Part two of the final project was drafted directly in shorthand: https://preview.shorthand.com/gLeeYnGYP6WgZslF. Feedback that I'm seeking or items that I'm still troubleshooting are italicized in the text.
 
 
 # User research 
