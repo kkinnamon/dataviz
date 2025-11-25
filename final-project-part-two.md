@@ -24,11 +24,8 @@ I'm hopeful that while interviewing, I'll be able to identify if the audience co
 The remaining goals of clarity and access focus on elements within the visualizations and their content. Clarity focuses on the visualizations, whereas access eliminates bias in my language in both the visualizations and the surrounding narratives. As a U.S. citizen who is a former school teacher, there is the potential for assumed language understanding, and I want to avoid that.
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
-Text here!
-
-| Questions               | Interview 1- Full-time Heinz Student Group | Interview 2- Coworker with education background | Interview 3- Family member who works in a profession that works with school aged students |
+| Questions               | Interview 1- Full-time Heinz Student Group | Interview 2- Coworker with higher education background | Interview 3- Family member who is not an educator but works with school aged students |
 |-------------------------|--------------------------------|-------------|-------------|
 | How can I elements more visually appealing? | Have you tried changing the axis on any visualizations you're struggling with? It might make it more accessible/user friendly.            | There's a lot to the map that means nothing. Can you zoom in? | The story is an afterthought. Am I supposed to read that too? Maybe highlight or bold important text. |
 |  Are there definitions that need clarified? | I'm confused about what teacher means. Does that mean professor? Can you explain underqualified? It sounds important, but I need that information to understand the visualization.  |  All of the info makes sense! |   Why does underqualified matter? |
