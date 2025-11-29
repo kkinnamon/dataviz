@@ -58,6 +58,7 @@ Learning Policy Institute. _State Teacher Shortages: Vacancy and Resource Tool._
 Lukkardata. _Cost of living by state in USA - Missouri Economic Research_. accessed 16 Nov. 2025. https://www.kaggle.com/datasets/lukkardata/cost-of-living-missouri-economic-research
 National Center for Education Statistics. _Digest of Education Statistics._ U.S. Department of Education. accessed 14 Nov. 2025. https://nces.ed.gov/programs/digest
 National Center for Education Statistics. _Teacher Attrition and Mobility Results from the 2021-2022 Teacher Follow-up Survey to the National Teacher and Principal Survey_. U.S. Department of Education, 2024. Accessed 16 Nov. 2025. https://nces.ed.gov
+National Education Association. _Rankings of the States 2024 and Estimates of School Statistics 2025._ NEA Research. Accessed 14 Nov. 2025. https://www.nea.org/sites/default/files/2025-04/2025_rankings_and_estimates_report.pdf.
 U.S. Department of Education. _Teacher Shortage Areas (TSA) Reports._ Accessed 16 Nov. 2025. https://tsa.ed.gov/#/reports
 
 
