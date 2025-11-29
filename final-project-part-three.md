@@ -14,12 +14,12 @@ When it comes to design, I wanted to keep the story visually light to contrast t
 The audience is ultimately aspiring teachers as the visualizations and story were written with them in mind. The secondary audience could include their families, policy makers, and those who have a stake in the success of public educators. That should include everyone, but that's a conversation for a different day.
 
 ## References
-> **You should have already included detailed references on your Shorthand story** - if so, you do not need to list them twice, unless you used additional references for specific to your writeup. Use this section to capture any additional special notes or information necessary. If there is additional information for your shorthand readers that you've placed on this page, link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly.
+All references are acknowledged in the shorthand story. Additional references which may not have made the cut, are referenced in part 1 of this project.
 
 ## AI acknowledgements
 I referenced chatgpt to add a 50 state reference line in the Top10/Bottom 10 visualization. While I was working through this visualization, the average line would change if I filtered the states shown, but I wanted to line to show the national average. I prompted chatgpt to walk me through creating a filter to keep the average static, which I think is incredibly impactful. 
 
 # Final thoughts
-This processed pushed my thinking in tremendous ways. I had to prioritize my goals and decide when to push forward with an idea and when to scale back due to my technical limitations. I'm very proud of the final outcome and what I was able to achieve.
+This process pushed my thinking in tremendous ways. I had to prioritize my goals and decide when to push forward with an idea and when to scale back due to my technical limitations. I'm very proud of the final outcome and what I was able to achieve.
 
 
