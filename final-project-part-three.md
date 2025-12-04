@@ -1,7 +1,7 @@
 | [home page](README.md) | [data viz examples](dataviz-examples.md) |[visualizing government debt](visualizing-government-debt.md) | [critique by design](critique-by-design.md) | [final project I](final-project-part-one.md) | [final project II](final-project-part-two.md) | [final project III](final-project-part-three.md) | [teacher story](teacher-story-examples.md)|
 
 # The final data story
-https://preview.shorthand.com/gLeeYnGYP6WgZslF
+https://carnegiemellon.shorthandstories.com/educator-data-story/index.html
 
 # Changes made since Part II
 My visualizations from part II to part III stayed in the same style, but they were tightened up a bit for clarity. For example, rather than a large amount of gray space on the first map, I zoomed into the lower 48. While I wanted the audience to see the differences between the total number of teachers across the state, I knew that the main premise would be lost when they had to continue scrolling. 
